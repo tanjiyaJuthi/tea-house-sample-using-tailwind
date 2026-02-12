@@ -1,0 +1,1 @@
+<h1>Simple website using Tailwind!</h1>
